@@ -290,4 +290,4 @@ member.send(whattosend.slice(1).join(" "))
     
 
 })
-client.login("<ad_token_here>")
+client.login("<add_token_here>")
